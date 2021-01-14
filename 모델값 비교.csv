@@ -1,0 +1,8 @@
+﻿모델,MSE
+Linear,105.47097
+Ridge,105.30544
+Lasso,105.607818
+K-NN,104.59673
+random_forest,91.52979
+Gradient_Boosting,88.94304
+XGB,85.788179
